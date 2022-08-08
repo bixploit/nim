@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Nim</string>
+    <string name="yapilacaklar">Yapılacaklar</string>
+    <string name="notlarım">Notlarım</string>
+    <string name="gunluk">Hatıralarım</string>
+    <string name="ayarlar">Ayarlar</string>
+</resources>
