@@ -6,4 +6,4 @@ I sharing this application for people want to learn developing mobile applicatio
 The Application Link
 https://play.google.com/store/apps/details?id=com.myfirstapplication.nim
 
-Please see the [Licance](LICENSE) and [Privacy Policy](Privacy Policy)
+Please see the [Licance](LICENSE) and [Privacy Policy]("Privacy Policy")
