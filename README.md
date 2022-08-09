@@ -5,3 +5,5 @@ I sharing this application for people want to learn developing mobile applicatio
 
 The Application Link
 https://play.google.com/store/apps/details?id=com.myfirstapplication.nim
+
+![main_light](https://user-images.githubusercontent.com/76751544/183690893-d0d3a93b-42b2-491e-a27b-cbc6ed5f9fa5.png)
